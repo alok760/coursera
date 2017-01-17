@@ -26,6 +26,9 @@ h2{
 	float=left;
 	clear:left;
 }
+#id{
+	margin-right: 10px;
+}
 
 #title1 {
 	background-color: red;
