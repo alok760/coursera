@@ -97,6 +97,7 @@ p{
 	border: 2px solid black;
 }
 header nav .container{
+	width:100%;
 	border-bottom:2px solid black;
 }
 
